@@ -1,12 +1,11 @@
-🏧 ATM Simulation System (Core Python)
-📌 Introduction
+ATM Simulation System (Core Python)
 
 The ATM Simulation System is a menu-driven Python program developed using Core Python only.
 It simulates basic ATM operations such as user authentication, balance enquiry, cash deposit, cash withdrawal, and transaction history.
 
 This project is designed for academic submission and helps beginners understand real-world banking operations using Python.
 
-🎯 Objectives
+Objectives:-
 
 To understand menu-driven programs in Python
 
@@ -16,7 +15,7 @@ To perform basic banking operations
 
 To maintain transaction history
 
-✅ Features
+Features:-
 Mandatory Features
 
 PIN-based user authentication
@@ -35,7 +34,7 @@ Change ATM PIN
 
 Exit option
 
-🛠️ Technologies Used
+Technologies Used:-
 
 Programming Language: Python
 
@@ -55,13 +54,13 @@ Loops
 
 Input / Output
 
-📂 Project Structure
+Project Structure:-
 ATM-Simulation-System/
 │
 ├── atm.py
 └── README.md
 
-▶️ How to Run the Program
+How to Run the Program:-
 
 Ensure Python is installed on your system
 
@@ -75,8 +74,7 @@ Run the program using:
 
 python atm.py
 
-🧑‍💻 How the System Works
-
+How the System Works:-
 User enters ATM PIN for authentication
 
 If PIN is correct, ATM menu is displayed
@@ -97,7 +95,7 @@ All transactions are stored in a list
 
 User can exit the system safely
 
-📊 Sample Output
+Sample Output:-
 ----- ATM MENU -----
 1. Balance Enquiry
 2. Deposit Cash
@@ -106,21 +104,7 @@ User can exit the system safely
 5. Change PIN
 6. Exit
 
-🎥 Video Demonstration
-
-The video demonstration includes:
-
-Explanation of the code
-
-PIN authentication process
-
-Deposit and withdrawal operations
-
-Display of transaction history
-
-(Video submitted separately as per instructions)
-
-📚 Learning Outcomes
+Learning Outcomes:-
 
 Learned how ATM systems work logically
 
@@ -130,7 +114,7 @@ Gained experience with menu-driven programs
 
 Learned how to manage data using lists
 
-👤 Author
+Author:-
 
 Name: shiiaad
 
