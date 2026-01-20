@@ -104,6 +104,24 @@ Sample Output:-
 5. Change PIN
 6. Exit
 
+
+Video Demonstration:-
+
+The video demonstration includes:
+
+Explanation of the code
+
+PIN authentication process
+
+Deposit and withdrawal operations
+
+Display of transaction history
+
+roject Explanation Video
+Google Drive Link Her:- https://drive.google.com/file/d/1de03sZFnYbr3Q1vuShl7nrvHfSG8jdtO/view?usp=drive_link
+
+(Video submitted separately as per instructions)
+
 Learning Outcomes:-
 
 Learned how ATM systems work logically
